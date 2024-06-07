@@ -1,4 +1,4 @@
-package com.loginSignupJWT.entity;
+package com.loginSignupJWT.entities;
 
 public enum Role {
     USER,
